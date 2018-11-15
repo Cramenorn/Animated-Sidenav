@@ -11,4 +11,4 @@ You must use a browser like **Chrome** or **Firefox** then you just need to copy
 * Html
 * Css
 * [Javascript](https://www.javascript.com/)
-* [Saas](https://sass-lang.com/)
+* [Sass](https://sass-lang.com/)
