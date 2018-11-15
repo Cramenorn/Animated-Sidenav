@@ -5,7 +5,7 @@ I included other features like the fixed navbar and footer, the side bar will ap
 
 ## What do i need to make the website work ?
 
-You must use a browser like **Chrome** or **Firefox** then you just need to copy and paste your folder path in the browser with the **index.html** file include.
+You must use a browser like **Chrome** or **Firefox** then you just need to copy and paste your folder path in the browser with the **index.html** file included.
 
 ### Built with
 * Html
